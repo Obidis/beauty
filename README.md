@@ -40,11 +40,5 @@ El diseño se basa en un archivo **Figma (.fig)** recibido, del cual desarrollé
 - Vite
 - Git y GitHub
 
-## 📌 Contacto
-
-Si quieres conocer más sobre mi trabajo, puedes encontrarme en:
-
-- **GitHub**: [@mario-sound](https://github.com/mario-sound)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mariosanchezsonido/)
 
 ¡Gracias por visitar este proyecto! 🚀
